@@ -68,7 +68,7 @@ const Header = () => (
     </div>
     <div>Cart</div>
   </StyledHeader>
-)
+);
 
 export default Header;
 
